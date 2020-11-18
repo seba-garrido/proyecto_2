@@ -1,0 +1,116 @@
+body{
+    background-image: url('plantas.png');
+    background-size: 50vw 100vh;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+ul{
+    width: 100%;
+    list-style: none;
+    margin: 0 0 0 250px;
+    padding: 0;
+}
+nav{
+    width: 100%;
+    text-align: left;
+    background-color: rgb(168, 255, 168);
+    font-size: 18px;
+}
+
+li{
+    float: center;
+    display: inline-block;
+}
+li a{
+    width: 150px;
+    color: rgb(0, 0, 0);
+    display: block;
+    padding: 30px 30px;
+    text-decoration: none;
+    font-family: Brush Script MT;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 50px;
+}
+li a:hover{
+    background-color: rgb(0, 139, 35);
+
+}
+.logo img{
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 20px;
+}
+h1{
+    font-size: 30px;
+    margin-left: 180px; 
+    font-family: Copperplate Gothic; 
+    text-align: left; 
+    padding-bottom: 20px; 
+    color: #000000;
+}
+h2{
+    font-size: 18px;  
+    font-family: calibri;
+    text-align: left; 
+    margin-left: 15px;
+    padding-bottom: 0px; 
+    color: #000000;
+}
+h4{
+    font-size: 30px;
+    margin-left: 220px; 
+    font-family: Copperplate Gothic; 
+    text-align: left; 
+    padding-bottom: 20px; 
+    color: #000000;
+}
+h3{
+    font-size: 30px;  
+    text-align: left;
+    margin-left: 70px;
+    font-family: Copperplate Gothic;
+    padding-bottom: 20px; 
+    color: #000000;
+}
+h5{
+    font-size: 18px;  
+    font-family: calibri;
+    text-align: left; 
+    margin-left: 230px;
+    padding-bottom: 20px; 
+    color: #000000;
+}
+.fondo {
+    background-color: #919191;
+}
+footer{
+    background-color: #000000;
+    overflow-x: hidden;
+}
+p{
+    font-size: 18px;
+    font-family: Times New Roman;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    width: 100%;
+}
+.Diseño{
+    margin-left: 30px;
+}
+.Dth22{
+    margin-left: 80px;
+}
+.Fc-28{
+    margin-left: 240px;
+}
+.Ldr{
+    margin-left: 280px;
+}
